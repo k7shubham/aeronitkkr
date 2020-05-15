@@ -16,14 +16,14 @@ var finalYear = {
     "Swikriti Kumari": {
     "Branch":"Mechanical",
     "Post":"Vice President",
-    "Email":"",
+    "Email":"Swikriti2@gmail.com",
     "Link":"",
     "Image":"./members/template.jpg"
   },
     "Sumit Saini": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"",
+    "Email":"sumitsaini1786@gmail.com",
     "Link":"",
     "Image":"./members/template.jpg"
   }
