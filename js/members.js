@@ -22,7 +22,7 @@ var finalYear = {
   },
     "Sumit Saini": {
     "Branch":"Mechanical",
-    "Post":"Secretary",
+    "Post":"",
     "Email":"sumitsaini1786@gmail.com",
     "Link":"",
     "Image":"./members/template.jpg"
@@ -68,10 +68,10 @@ var finalYear = {
  // console.log(preFinalYear);
  // console.log(finalYear);
 
-function makeCard(name,Branch,Email,link,image,post='null'){
+function makeCard(name,Branch,Email,link,image,post=""){
 
       var isPost = '';
-      if(post!='null')
+      if(post!="")
            isPost+='Post: '+post+'</br>'
 
       var str = '<div class="col s12 m3">'+
