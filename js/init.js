@@ -8,5 +8,5 @@
 })(jQuery); // end of jQuery name space
 
 $(document).ready(function() {
-	$('.sk-folding-cube-wrapper').fadeOut(500);
+	$('.sk-folding-cube-wrapper').delay(2000).fadeOut(500);
 });
