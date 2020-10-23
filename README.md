@@ -97,3 +97,10 @@ www.aeronitkkr.com
 for resizing profile pictures
 https://bulkresizephotos.com/en
 size width-800, height-850px
+
+
+## Website used for fonts
+https://fontawesome.com/v4.7.0/icons/
+<br>
+CDN LINK  <br>
+<script src="https://use.fontawesome.com/7a05690612.js"></script>
