@@ -97,5 +97,3 @@ www.aeronitkkr.com
 for resizing profile pictures
 https://bulkresizephotos.com/en
 size width-800, height-850px
-
-
