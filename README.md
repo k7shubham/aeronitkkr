@@ -89,3 +89,13 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
+
+## Website link
+www.aeronitkkr.com
+
+## Websites used for formatting and editing images
+for resizing profile pictures
+https://bulkresizephotos.com/en
+size width-800, height-850px
+
+
