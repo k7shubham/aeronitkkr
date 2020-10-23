@@ -1,65 +1,73 @@
 var finalYear = {
-   "Nachiket Sharma": {
-    "Branch":"Electrical",
+   "Amit Kumar": {
+    "Branch":"ECE",
     "Post":"President",
-    "Email":"Nachiket97Sharma@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
+    "Email":"ak99ti@gmail.com",
+    "Image":"./members/default.jpg"
   },
-    "Shivam Kumar": {
+    "Amit Jangra": {
+    "Branch":"ECE",
+    "Post":"Vice President",
+    "Email":"amitjangraa1999@gmail",
+    "Image":"./members/default.jpg"
+  },
+    "Lakshay Kumar": {
+    "Branch":"ECE",
+    "Post":"Secretary",
+    "Email":"Lakshayk67@gmail.com",
+    "Image":"./members/default.jpg"
+  },
+    "Satyam Sihare": {
+    "Branch":"IT",
+    "Post":"Secretary",
+    "Email":"satyam_11710516@nitkkr.ac.in",
+    "Image":"./members/Satyam.jpg"
+  },
+  "Saurabh Shukla": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"shivamkdv1998@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
-  },
-    "Swikriti Kumari": {
-    "Branch":"Mechanical",
-    "Post":"Vice President",
-    "Email":"Swikriti2@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
-  },
-    "Sumit Saini": {
-    "Branch":"Mechanical",
-    "Post":"",
-    "Email":"sumitsaini1786@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
+    "Email":"N/A",
+    "Image":"./members/default.jpg"
   }
     
  };
 
  var preFinalYear = {
- 	"Amit Jangra": {
-    "Branch":"ECE",
-    "Email":"amitjangraa1999@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
+ 	"Abhronil": {
+    "Image":"./members/Abhronil.jpg"
   },
-  "Amit Kumar": {
-    "Branch":"ECE",
-    "Email":"amit_11710423@nitkkr.ac.in",
-    "Link":"",
-    "Image":"./members/template.jpg"
+  "Badavathu": {
+    "Image":"./members/BADAVATHU_II.jpg"
   },
-   "Lakshay Kumar": {
-    "Branch":"ECE",
-    "Email":"Lakshayk67@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
+   "Mandeep": {
+    "Image":"./members/Mandeep_III.jpg"
   },
-  "Saurabh Shukla": {
-    "Branch":"Mechanical",
-    "Email":"shuklasaurabh67@gmail.com",
-    "Link":"",
-    "Image":"./members/template.jpg"
+  "Navdeep": {
+    "Image":"./members/Navdeep_III.jpg"
   },
-  "Satyam Sihare": {
-    "Branch":"IT",
-    "Email":"",
-    "Link":"",
-    "Image":"./members/template.jpg"
+  "Nitin": {
+    "Image":"./members/Nitin_III.jpg"
+  },
+  "Preneet": {
+    "Image":"./members/Praneet.jpg"
+  },
+  "Preveen Kaushik": {
+    "Image":"./members/Praveen_Kaushik_II.jpg"
+  },
+  "Ritwik": {
+    "Image":"./members/Ritwik.jpg"
+  },
+  "Sahil": {
+    "Image":"./members/Sahil_III.jpg"
+  },
+  "Sanjeev": {
+    "Image":"./members/Sanjeev_III.jpg"
+  },
+  "Shivani": {
+    "Image":"./members/Shivani.jpg"
+  },
+  "Vinay": {
+    "Image":"./members/Vinay_III.jpg"
   }
  };
 
@@ -74,7 +82,7 @@ function makeCard(name,Branch,Email,link,image,post=""){
       if(post!="")
            isPost+='Post: '+post+'</br>'
 
-      var str = '<div class="col s12 m3">'+
+      var str = '<div class="col s12 m6 l4">'+
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
@@ -83,13 +91,27 @@ function makeCard(name,Branch,Email,link,image,post=""){
                       '<div class="card-content">'+
                           '<p>'+isPost+'Email: '+Email+'</br>Branch: '+Branch+'</p>'+
                       '</div>'+
-                    '<div class="card-action">'+
-                       '<a href="'+link+'">Link</a>'+
-                    '</div></div></div>'
+                    '</div></div>'
       //console.log(name,Branch,Email,link,image,post)
         
       return str;
  }
+
+
+function makeCard2(name,image){
+
+      var str = '<div class="col s12 m6 l4">'+
+                    '<div class="card">'+
+                      '<div class="card-image">'+
+                            '<img src="'+image+'">'+
+                      '</div>'+
+                      '<div class="card-content">'+
+                          '<h5>'+name+'</h5>'+
+                      '</div></div></div>'
+      //console.log(name,Branch,Email,link,image,post)
+      return str;
+ }
+
 
 function Cards(finalYear,preFinalYear)
 {
@@ -112,8 +134,7 @@ function Cards(finalYear,preFinalYear)
        for(i in keys2)
        {
             var name = keys2[i];
-            var card = makeCard(name,preFinalYear[name]["Branch"],preFinalYear[name]["Email"],
-              preFinalYear[name]["Link"],preFinalYear[name]["Image"]);
+            var card = makeCard2(name,preFinalYear[name]["Image"]);
             allCards2+=card;
        }
 
