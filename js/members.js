@@ -3,7 +3,7 @@ var finalYear = {
     "Branch":"ECE",
     "Post":"President",
     "Email":"ak99ti@gmail.com",
-    "Image":"./members/default.jpg"
+    "Image":"./members/Amit_IV.jpg"
   },
     "Amit Jangra": {
     "Branch":"ECE",
@@ -15,7 +15,7 @@ var finalYear = {
     "Branch":"ECE",
     "Post":"Secretary",
     "Email":"Lakshayk67@gmail.com",
-    "Image":"./members/default.jpg"
+    "Image":"./members/Lakshay_IV.jpg"
   },
     "Satyam Sihare": {
     "Branch":"IT",
@@ -26,8 +26,8 @@ var finalYear = {
   "Saurabh Shukla": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"N/A",
-    "Image":"./members/default.jpg"
+    "Email":"shuklasaurabh67@gmail.com",
+    "Image":"./members/Saurabh_IV.jpg"
   }
     
  };
