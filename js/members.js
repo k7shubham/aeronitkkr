@@ -68,6 +68,9 @@ var finalYear = {
   },
   "Vinay": {
     "Image":"./members/Vinay_III.jpg"
+  },
+  "Shubham Kumar": {
+    "Image": "./members/Shubham.jpg"
   }
  };
 
