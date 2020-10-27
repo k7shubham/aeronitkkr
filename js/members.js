@@ -36,7 +36,7 @@ var finalYear = {
  	"Abhronil": {
     "Image":"./members/Abhronil.jpg"
   },
-  "Badavathu": {
+  "Bandavathu": {
     "Image":"./members/BADAVATHU_II.jpg"
   },
    "Mandeep": {
@@ -48,13 +48,13 @@ var finalYear = {
   "Nitin": {
     "Image":"./members/Nitin_III.jpg"
   },
-  "Preneet": {
+  "Praneet": {
     "Image":"./members/Praneet.jpg"
   },
-  "Preveen Kaushik": {
+  "Praveen Kaushik": {
     "Image":"./members/Praveen_Kaushik_II.jpg"
   },
-  "Ritwik": {
+  "Ritvik": {
     "Image":"./members/Ritwik.jpg"
   },
   "Sahil": {
