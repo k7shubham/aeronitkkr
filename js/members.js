@@ -8,8 +8,8 @@ var finalYear = {
     "Amit Jangra": {
     "Branch":"ECE",
     "Post":"Vice President",
-    "Email":"amitjangraa1999@gmail",
-    "Image":"./members/default.jpg"
+    "Email":"amitjangraa1999@gmail.com",
+    "Image":"./members/Amti_IV.jpg"
   },
     "Lakshay Kumar": {
     "Branch":"ECE",
@@ -33,6 +33,9 @@ var finalYear = {
  };
 
  var preFinalYear = {
+ 	"Chatanya Jain": {
+ 		"Image":"./members/Chaitanya_III.jpg"
+ 	},
  	"Abhronil": {
     "Image":"./members/Abhronil.jpg"
   },
