@@ -20,8 +20,22 @@ var finalYear = {
     "Ritvik Saini": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"",
     "Image":"./members/Ritwik_III.jpg"
+  },
+    "Mandeep": {
+    "Image":"./members/Mandeep_III.jpg"
+  },
+  "Navdeep": {
+    "Image":"./members/Navdeep_III.jpg"
+  },
+  "Nitin": {
+    "Image":"./members/Nitin_III.jpg"
+  },
+   "Vinay": {
+    "Image":"./members/Vinay_III.jpg"
+  },
+  "Shubham Kumar": {
+    "Image": "./members/Shubham.jpg"
   }
  };
 
@@ -33,15 +47,7 @@ var finalYear = {
   "Bandavathu": {
     "Image":"./members/BADAVATHU_II.jpg"
   },
-   "Mandeep": {
-    "Image":"./members/Mandeep_III.jpg"
-  },
-  "Navdeep": {
-    "Image":"./members/Navdeep_III.jpg"
-  },
-  "Nitin": {
-    "Image":"./members/Nitin_III.jpg"
-  },
+  
   "Praneet": {
     "Image":"./members/Praneet.jpg"
   },
@@ -51,12 +57,6 @@ var finalYear = {
  
   "Shivani": {
     "Image":"./members/Shivani.jpg"
-  },
-  "Vinay": {
-    "Image":"./members/Vinay_III.jpg"
-  },
-  "Shubham Kumar": {
-    "Image": "./members/Shubham.jpg"
   }
  };
 
