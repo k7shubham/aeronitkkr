@@ -1,41 +1,32 @@
 var finalYear = {
-   "Amit Kumar": {
-    "Branch":"ECE",
+   "Chaitanya": {
+    "Branch":"Mechanical",
     "Post":"President",
-    "Email":"ak99ti@gmail.com",
-    "Image":"./members/Amit_IV.jpg"
+    "Email":"chaitanyaduck@gmail.com",
+    "Image":"./members/Chaitanya_III.jpg"
   },
-    "Amit Jangra": {
+    "Sahil Kadyan": {
     "Branch":"ECE",
     "Post":"Vice President",
-    "Email":"amitjangraa1999@gmail.com",
-    "Image":"./members/Amti_IV.jpg"
+    "Email":"Kadyansahil5111@gmail.com",
+    "Image":"./members/Sahil_III.jpg"
   },
-    "Lakshay Kumar": {
+    "Sanjeev": {
     "Branch":"ECE",
     "Post":"Secretary",
-    "Email":"Lakshayk67@gmail.com",
-    "Image":"./members/Lakshay_IV.jpg"
+    "Email":"sanjeev_11815096@nitkkr.ac.in",
+    "Image":"./members/Sanjeev_III.jpg"
   },
-    "Satyam Sihare": {
-    "Branch":"IT",
-    "Post":"Secretary",
-    "Email":"satyam_11710516@nitkkr.ac.in",
-    "Image":"./members/Satyam.jpg"
-  },
-  "Saurabh Shukla": {
+    "Ritvik Saini": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"shuklasaurabh67@gmail.com",
-    "Image":"./members/Saurabh_IV.jpg"
+    "Email":"",
+    "Image":"./members/Ritwik_III.jpg"
   }
-    
  };
 
  var preFinalYear = {
- 	"Chatanya Jain": {
- 		"Image":"./members/Chaitanya_III.jpg"
- 	},
+
  	"Abhronil": {
     "Image":"./members/Abhronil.jpg"
   },
@@ -57,15 +48,7 @@ var finalYear = {
   "Praveen Kaushik": {
     "Image":"./members/Praveen_Kaushik_II.jpg"
   },
-  "Ritvik": {
-    "Image":"./members/Ritwik.jpg"
-  },
-  "Sahil": {
-    "Image":"./members/Sahil_III.jpg"
-  },
-  "Sanjeev": {
-    "Image":"./members/Sanjeev_III.jpg"
-  },
+ 
   "Shivani": {
     "Image":"./members/Shivani.jpg"
   },
