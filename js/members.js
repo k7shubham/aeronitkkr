@@ -1,80 +1,109 @@
-var finalYear = {
-   "Amit Kumar": {
-    "Branch":"ECE",
+ var finalYear = {
+   "Chaitanya": {
+    "Branch":"Mechanical",
     "Post":"President",
-    "Email":"ak99ti@gmail.com",
-    "Image":"./members/Amit_IV.jpg"
+    "Email":"chaitanyaduck@gmail.com",
+    "Image":"./members/Chaitanya_III.jpg"
   },
-    "Amit Jangra": {
+    "Sahil Kadyan": {
     "Branch":"ECE",
     "Post":"Vice President",
-    "Email":"amitjangraa1999@gmail.com",
-    "Image":"./members/Amti_IV.jpg"
+    "Email":"Kadyansahil5111@gmail.com",
+    "Image":"./members/Sahil_III.jpg"
   },
-    "Lakshay Kumar": {
+    "Sanjeev": {
     "Branch":"ECE",
     "Post":"Secretary",
-    "Email":"Lakshayk67@gmail.com",
-    "Image":"./members/Lakshay_IV.jpg"
+    "Email":"sanjeev_11815096@nitkkr.ac.in",
+    "Image":"./members/Sanjeev_III.jpg"
   },
-    "Satyam Sihare": {
-    "Branch":"IT",
-    "Post":"Secretary",
-    "Email":"satyam_11710516@nitkkr.ac.in",
-    "Image":"./members/Satyam.jpg"
-  },
-  "Saurabh Shukla": {
+    "Ritvik Saini": {
     "Branch":"Mechanical",
     "Post":"Secretary",
-    "Email":"shuklasaurabh67@gmail.com",
-    "Image":"./members/Saurabh_IV.jpg"
+    "Email" : "Ritvik_11816083@nitkkr.ac.in",
+    "Image":"./members/Ritwik_III.jpg"
+    },
+
+     "Aqib": {
+	 "Branch":"Mechanical",
+         "Image":"./members/Aqib.jpeg"
+      },
+     "Divya": {
+	 "Branch":"Mechanical",
+         "Image":"./members/divya.jpeg"
+     },
+     "Mandeep": {
+	  "Branch":"ECE",
+    "Image":"./members/Mandeep_III.jpg"
+  },
+     "Navdeep": {
+	  "Branch":"Electrical",
+    "Image":"./members/Navdeep_III.jpg"
+  },
+     "Nitin": {
+	  "Branch":"ECE",
+    "Image":"./members/Nitin_III.jpg"
+  },
+     "Shubham Kumar": {
+	  "Branch":"ECE",
+    "Image": "./members/Shubham.jpg"
+     },
+     "Vinay": {
+	 "Branch":"Mechanical",
+    "Image":"./members/Vinay_III.jpg"
   }
-    
+
+     
+   
  };
+    
+ 
 
  var preFinalYear = {
- 	"Chatanya Jain": {
- 		"Image":"./members/Chaitanya_III.jpg"
- 	},
  	"Abhronil": {
     "Image":"./members/Abhronil.jpg"
-  },
+	},
+      "Anubhav": {
+         "Image":"./members/anubhav.jpeg"
+      },
+      "Anant Sharma": {
+         "Image":"./members/anant.jpeg"
+     },
+     
   "Bandavathu": {
     "Image":"./members/BADAVATHU_II.jpg"
   },
-   "Mandeep": {
-    "Image":"./members/Mandeep_III.jpg"
-  },
-  "Navdeep": {
-    "Image":"./members/Navdeep_III.jpg"
-  },
-  "Nitin": {
-    "Image":"./members/Nitin_III.jpg"
-  },
+     
+      "Parbhat Kumar": {
+         "Image":"./members/Parbhat.jpg"
+     },
   "Praneet": {
     "Image":"./members/Praneet.jpg"
   },
   "Praveen Kaushik": {
     "Image":"./members/Praveen_Kaushik_II.jpg"
   },
-  "Ritvik": {
-    "Image":"./members/Ritwik.jpg"
-  },
-  "Sahil": {
-    "Image":"./members/Sahil_III.jpg"
-  },
-  "Sanjeev": {
-    "Image":"./members/Sanjeev_III.jpg"
-  },
   "Shivani": {
     "Image":"./members/Shivani.jpg"
   },
-  "Vinay": {
-    "Image":"./members/Vinay_III.jpg"
-  },
-  "Shubham Kumar": {
-    "Image": "./members/Shubham.jpg"
-  }
+      "Snehil Raj": {
+         "Image":"./members/snehil.jpeg"
+     },
+  
+      "Sharique": {
+         "Image":"./members/Sharique.jpeg"
+     },
+  
+      "Tarun Yadav": {
+         "Image":"./members/tarun.jpeg"
+      },
+      "Tushar": {
+         "Image":"./members/Tushar.JPG"
+      },
+      "Varun Goel": {
+         "Image":"./members/varun.jpeg"
+      }
+    
  };
 
  
@@ -88,14 +117,14 @@ function makeCard(name,Branch,Email,link,image,post=""){
       if(post!="")
            isPost+='Post: '+post+'</br>'
 
-      var str = '<div class="col s12 m6 l4">'+
+      var str =  '<div class="col s9 m6 l4">'+
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
                             '<span class="card-title">'+name+'</span>'+
-                      '</div>'+
-                      '<div class="card-content">'+
-                          '<p>'+isPost+'Email: '+Email+'</br>Branch: '+Branch+'</p>'+
+          '</div>'+
+	  '<div class="card-content">'+
+                          '<p>'+isPost+'Branch: '+Branch+'</p>'+
                       '</div>'+
                     '</div></div>'
       //console.log(name,Branch,Email,link,image,post)
@@ -110,9 +139,7 @@ function makeCard2(name,image){
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
-                      '</div>'+
-                      '<div class="card-content">'+
-                          '<h5>'+name+'</h5>'+
+                            '<span class="card-title" style = "text-align: center">'+name+'</span>'+
                       '</div></div></div>'
       //console.log(name,Branch,Email,link,image,post)
       return str;
