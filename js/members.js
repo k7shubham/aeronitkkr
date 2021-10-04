@@ -22,7 +22,12 @@ var finalYear = {
     "Post":"Secretary",
     "Email" : "Ritvik_11816083@nitkkr.ac.in",
     "Image":"./members/Ritwik_III.jpg"
-  },
+  }
+   
+ };
+
+ var preFinalYear = {
+
     "Mandeep": {
     "Image":"./members/Mandeep_III.jpg"
   },
@@ -37,12 +42,8 @@ var finalYear = {
   },
   "Shubham Kumar": {
     "Image": "./members/Shubham.jpg"
-  }
- };
-
- var preFinalYear = {
-
- 	"Abhronil": {
+  }, 
+  "Abhronil": {
     "Image":"./members/Abhronil.jpg"
   },
   "Bandavathu": {
