@@ -20,6 +20,7 @@ var finalYear = {
     "Ritvik Saini": {
     "Branch":"Mechanical",
     "Post":"Secretary",
+    "Email" : "Ritvik_11816083@nitkkr.ac.in",
     "Image":"./members/Ritwik_III.jpg"
   },
     "Mandeep": {
