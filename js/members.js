@@ -23,6 +23,10 @@ var finalYear = {
     "Email" : "Ritvik_11816083@nitkkr.ac.in",
     "Image":"./members/Ritwik_III.jpg"
     },
+     "Abhay": {
+	  "Branch":"ECE",
+    "Image": "./members/abhay.jpeg"
+     },
 
      "Aqib": {
 	 "Branch":"Mechanical",
@@ -43,10 +47,22 @@ var finalYear = {
      "Nitin": {
 	  "Branch":"ECE",
     "Image":"./members/Nitin_III.jpg"
-  },
+     },
+     "Pushkal Shukla": {
+	  "Branch":"ECE",
+    "Image": "./members/pushkal.jpeg"
+     },
+      "Shemon": {
+	 "Branch":"Mechanical",
+         "Image":"./members/shemon.jpeg"
+      },
      "Shubham Kumar": {
 	  "Branch":"ECE",
     "Image": "./members/Shubham.jpg"
+     },
+     "Sourav Parida": {
+	  "Branch":"ECE",
+    "Image": "./members/sourav.jpeg"
      },
      "Vinay": {
 	 "Branch":"Mechanical",
@@ -70,10 +86,10 @@ var finalYear = {
          "Image":"./members/anant.jpeg"
      },
      
-  "Bandavathu": {
-    "Image":"./members/BADAVATHU_II.jpg"
-  },
-     
+  
+      "Madhur": {
+         "Image":"./members/madhur.jpeg"
+      },
       "Parbhat Kumar": {
          "Image":"./members/Parbhat.jpg"
      },
@@ -102,9 +118,16 @@ var finalYear = {
       },
       "Varun Goel": {
          "Image":"./members/varun.jpeg"
-      }
+      },
+      "Vikas Yadav": {
+         "Image":"./members/vikas.jpeg"
+      },
+     "Bandavathu": {
+    "Image":"./members/BADAVATHU_II.jpg"
+  }
     
  };
+
 
  
 
