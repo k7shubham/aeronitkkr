@@ -1,4 +1,4 @@
- var finalYear = {
+var finalYear = {
    "Chaitanya": {
     "Branch":"Mechanical",
     "Post":"President",
