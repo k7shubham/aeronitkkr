@@ -22,44 +22,88 @@ var finalYear = {
     "Post":"Secretary",
     "Email" : "Ritvik_11816083@nitkkr.ac.in",
     "Image":"./members/Ritwik_III.jpg"
-  }
-   
- };
+    },
 
- var preFinalYear = {
-
-    "Mandeep": {
+     "Aqib": {
+	 "Branch":"Mechanical",
+         "Image":"./members/Aqib.jpeg"
+      },
+     "Divya": {
+	 "Branch":"Mechanical",
+         "Image":"./members/divya.jpeg"
+     },
+     "Mandeep": {
+	  "Branch":"ECE",
     "Image":"./members/Mandeep_III.jpg"
   },
-  "Navdeep": {
+     "Navdeep": {
+	  "Branch":"Electrical",
     "Image":"./members/Navdeep_III.jpg"
   },
-  "Nitin": {
+     "Nitin": {
+	  "Branch":"ECE",
     "Image":"./members/Nitin_III.jpg"
   },
-   "Vinay": {
-    "Image":"./members/Vinay_III.jpg"
-  },
-  "Shubham Kumar": {
+     "Shubham Kumar": {
+	  "Branch":"ECE",
     "Image": "./members/Shubham.jpg"
-  }, 
-  "Abhronil": {
+     },
+     "Vinay": {
+	 "Branch":"Mechanical",
+    "Image":"./members/Vinay_III.jpg"
+  }
+
+     
+   
+ };
+    
+ 
+
+ var preFinalYear = {
+ 	"Abhronil": {
     "Image":"./members/Abhronil.jpg"
-  },
+	},
+      "Anubhav": {
+         "Image":"./members/anubhav.jpeg"
+      },
+      "Anant Sharma": {
+         "Image":"./members/anant.jpeg"
+     },
+     
   "Bandavathu": {
     "Image":"./members/BADAVATHU_II.jpg"
   },
-  
+     
+      "Parbhat Kumar": {
+         "Image":"./members/Parbhat.jpg"
+     },
   "Praneet": {
     "Image":"./members/Praneet.jpg"
   },
   "Praveen Kaushik": {
     "Image":"./members/Praveen_Kaushik_II.jpg"
   },
- 
   "Shivani": {
     "Image":"./members/Shivani.jpg"
-  }
+  },
+      "Snehil Raj": {
+         "Image":"./members/snehil.jpeg"
+     },
+  
+      "Sharique": {
+         "Image":"./members/Sharique.jpeg"
+     },
+  
+      "Tarun Yadav": {
+         "Image":"./members/tarun.jpeg"
+      },
+      "Tushar": {
+         "Image":"./members/Tushar.JPG"
+      },
+      "Varun Goel": {
+         "Image":"./members/varun.jpeg"
+      }
+    
  };
 
  
@@ -73,14 +117,14 @@ function makeCard(name,Branch,Email,link,image,post=""){
       if(post!="")
            isPost+='Post: '+post+'</br>'
 
-      var str = '<div class="col s9 m6 l4">'+
+      var str =  '<div class="col s9 m6 l4">'+
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
                             '<span class="card-title">'+name+'</span>'+
-                      '</div>'+
-                      '<div class="card-content">'+
-                          '<p>'+isPost+'Email: '+Email+'</br>Branch: '+Branch+'</p>'+
+          '</div>'+
+	  '<div class="card-content">'+
+                          '<p>'+isPost+'Branch: '+Branch+'</p>'+
                       '</div>'+
                     '</div></div>'
       //console.log(name,Branch,Email,link,image,post)
@@ -95,9 +139,7 @@ function makeCard2(name,image){
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
-                      '</div>'+
-                      '<div class="card-content">'+
-                          '<h5>'+name+'</h5>'+
+                            '<span class="card-title" style = "text-align: center">'+name+'</span>'+
                       '</div></div></div>'
       //console.log(name,Branch,Email,link,image,post)
       return str;
