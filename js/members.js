@@ -119,7 +119,7 @@ var finalYear = {
       "Varun Goel": {
          "Image":"./members/varun.jpeg"
       },
-      "Vikas Yadav": {
+      "Vikas Choudhary": {
          "Image":"./members/vikas.jpeg"
       },
      "Bandavathu": {
