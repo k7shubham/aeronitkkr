@@ -59,7 +59,7 @@ footer.page-footer {
 .sk-folding-cube {
   position: absolute;
   top: 40%;
-  left: 40%;
+  left: 45%;
   width: 80px;
   height: 80px;
   position: relative;
@@ -154,4 +154,9 @@ right: 0;
 bottom: 0;
 background-color:#2980b9;
 z-index: 999999;
+}
+
+.card-image{
+    height: 100%;
+    widht: 100%
 }
