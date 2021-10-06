@@ -124,6 +124,12 @@ var finalYear = {
       },
      "Bandavathu": {
     "Image":"./members/BADAVATHU_II.jpg"
+  },
+      "Amit jindal": {
+    "Image":"./members/amit.jpg"
+      },
+      "Vinay": {
+    "Image":"./members/vinay.jpeg"
   }
     
  };
