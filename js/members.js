@@ -146,7 +146,7 @@ function makeCard(name,Branch,Email,link,image,post=""){
       if(post!="")
            isPost+='Post: '+post+'</br>'
 
-      var str =  '<div class="col s9 m6 l4">'+
+      var str =  '<div class="col s12 m6 l4">'+
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
