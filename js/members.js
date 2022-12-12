@@ -1,28 +1,37 @@
 var finalYear = {
-   "Chaitanya": {
-    "Branch":"Mechanical",
+   "Sharique": {
+    "Branch":"ECE",
     "Post":"President",
     "Email":"chaitanyaduck@gmail.com",
-    "Image":"./members/Chaitanya_III.jpg"
+    "Image":"./members/Sharique.jpeg"
   },
-    "Sahil Kadyan": {
-    "Branch":"ECE",
-    "Post":"Vice President",
+    "Anubhav Saini": {
+    "Branch":"Mechanical",
+    "Post":"Vice-President",
     "Email":"Kadyansahil5111@gmail.com",
-    "Image":"./members/Sahil_III.jpg"
+    "Image":"./members/anubhav.jpeg"
   },
-    "Sanjeev": {
+    "Abhronil": {
     "Branch":"ECE",
     "Post":"Secretary",
     "Email":"sanjeev_11815096@nitkkr.ac.in",
     "Image":"./members/Sanjeev_III.jpg"
   },
-    "Ritvik Saini": {
+    "Snehil Raj": {
     "Branch":"Mechanical",
     "Post":"Secretary",
     "Email" : "Ritvik_11816083@nitkkr.ac.in",
     "Image":"./members/Ritwik_III.jpg"
     },
+
+    "Tarun": {
+      "Branch":"Mechanical",
+      "Post":"Secretary",
+      "Email" : "Ritvik_11816083@nitkkr.ac.in",
+      "Image":"./members/Ritwik_III.jpg"
+      },
+
+
      "Abhay": {
 	  "Branch":"ECE",
     "Image": "./members/abhay.jpeg"
