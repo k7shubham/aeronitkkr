@@ -3,13 +3,13 @@ var finalYear = {
     "Branch":"ECE",
     "Post":"President",
     "Email":"md_11915095@nitkkr.ac.in",
-    "Image":"./members/Sharique.png"
+    "Image":"./members/Sharique.jpg"
   },
     "Anubhav Saini": {
     "Branch":"Mechanical",
     "Post":"Vice-President",
     "Email":"anubhav_11916031@nitkkr.ac.in",
-    "Image":"./members/Anubhav.png"
+    "Image":"./members/Anubhav.jpg"
   },
     "Abhronil Adhikari": {
     "Branch":"ECE",
@@ -40,7 +40,7 @@ var finalYear = {
     "Madhur": {
 	  "Branch":"Mechanical",
     "Post":"Member",
-    "Image":"./members/Madhur.png"
+    "Image":"./members/Madhur.jpg"
     },
 
     "Varun Goel": {
@@ -55,11 +55,11 @@ var finalYear = {
  var preFinalYear = {
 
  	"Bhupeksh": {
-  "Image":"./members/Bhupeksh.png"
+  "Image":"./members/Bhupeksh.jpg"
 	},
 
   "D Sharvani": {
-  "Image":"./members/Sharvani.png"
+  "Image":"./members/Sharvani.jpg"
   },
 
   "Shubham Kaushik": {
@@ -67,7 +67,7 @@ var finalYear = {
   },
 
   "Chanakya Dheeraj": {
-    "Image":"./members/Chanakya.png"
+    "Image":"./members/Chanakya.jpg"
   },
 
   "Saurav Singh": {
@@ -75,7 +75,7 @@ var finalYear = {
   },
 
   "Rahul Yadav": {
-  "Image":"./members/Rahul.png"
+  "Image":"./members/Rahul.jpg"
   },
 
  };
