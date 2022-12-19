@@ -78,6 +78,10 @@ var finalYear = {
   "Image":"./members/Rahul.jpg"
   },
 
+  "Himanshu": {
+  "Image":"./members/Himanshu.jpg"
+  },
+
  };
 
 
