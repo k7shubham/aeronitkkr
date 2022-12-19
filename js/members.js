@@ -54,18 +54,6 @@ var finalYear = {
 
  var preFinalYear = {
 
- 	"Bhupeksh": {
-  "Image":"./members/Bhupeksh.jpg"
-	},
-
-  "D Sharvani": {
-  "Image":"./members/Sharvani.jpg"
-  },
-
-  "Shubham Kaushik": {
-  "Image":"./members/Shubham.jpg"
-  },
-
   "Atul": {
     "Image":"./members/Atul.jpg"
   },
@@ -74,14 +62,30 @@ var finalYear = {
   "Image":"./members/Himanshu.jpeg"
   },
   
-  "Priyanshu": {
+  "Priyanshu Gaur": {
   "Image":"./members/Priyanshu.jpg"
+  },
+  
+  "Shubham Kaushik": {
+  "Image":"./members/Shubham.jpg"
+  },
+
+  "D Sharvani": {
+  "Image":"./members/Sharvani.jpg"
+  },
+
+  "Bhupeksh": {
+  "Image":"./members/Bhupeksh.jpg"
   },
   
   "Tanuj": {
   "Image":"./members/Tanuj.jpg"
   },
-  
+
+  "Vinay Saini": {
+    "Image":"./members/Vinay.jpg"
+    },
+
   "Rohit": {
   "Image":"./members/Rohit.jpg"
             },
