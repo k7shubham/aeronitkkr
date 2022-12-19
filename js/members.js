@@ -79,7 +79,7 @@ var finalYear = {
   },
 
   "Himanshu": {
-  "Image":"./members/Himanshu.jpg"
+  "Image":"./members/Himanshu.jpeg"
   },
 
  };
