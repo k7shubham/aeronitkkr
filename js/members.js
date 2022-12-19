@@ -67,31 +67,31 @@ var finalYear = {
   },
 
   "Atul": {
-    "Image":"./members/Atul.jpeg"
-    },
+    "Image":"./members/Atul.jpg"
+  },
   
   "Himanshu": {
   "Image":"./members/Himanshu.jpeg"
   },
   
   "Priyanshu": {
-  "Image":"./members/Priyanshu.jpeg"
+  "Image":"./members/Priyanshu.jpg"
   },
   
   "Tanuj": {
-  "Image":"./members/Tanuj.jpeg"
+  "Image":"./members/Tanuj.jpg"
   },
   
   "Rohit": {
-  "Image":"./members/Rohit.jpeg"
+  "Image":"./members/Rohit.jpg"
             },
   
   "Khushi": {
-  "Image":"./members/Khushi.jpeg"
+  "Image":"./members/Khushi.jpg"
               },
   
   "Nitin": {
-  "Image":"./members/Nitin.jpeg"
+  "Image":"./members/Nitin.jpg"
     },
 
   "Chanakya Dheeraj": {
