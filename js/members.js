@@ -143,7 +143,7 @@ function makeCard2(name,image){
                     '<div class="card">'+
                       '<div class="card-image">'+
                             '<img src="'+image+'">'+
-                            '<span class="card-title" style = "text-align: center">'+name+'</span>'+
+                            '<span class="card-title">'+name+'</span>'+
                       '</div></div></div>'
       //console.log(name,Branch,Email,link,image,post)
       return str;
