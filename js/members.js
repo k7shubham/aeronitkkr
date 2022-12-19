@@ -2,145 +2,82 @@ var finalYear = {
    "Sharique": {
     "Branch":"ECE",
     "Post":"President",
-    "Email":"chaitanyaduck@gmail.com",
-    "Image":"./members/Sharique.jpeg"
+    "Email":"md_11915095@nitkkr.ac.in",
+    "Image":"./members/Sharique.png"
   },
     "Anubhav Saini": {
     "Branch":"Mechanical",
     "Post":"Vice-President",
-    "Email":"Kadyansahil5111@gmail.com",
-    "Image":"./members/anubhav.jpeg"
+    "Email":"anubhav_11916031@nitkkr.ac.in",
+    "Image":"./members/Anubhav.png"
   },
-    "Abhronil": {
+    "Abhronil Adhikari": {
     "Branch":"ECE",
     "Post":"Secretary",
-    "Email":"sanjeev_11815096@nitkkr.ac.in",
-    "Image":"./members/Sanjeev_III.jpg"
+    "Email":"abhronil_11915097@nitkkr.ac.in",
+    "Image":"./members/Abhronil.jpg"
   },
     "Snehil Raj": {
-    "Branch":"Mechanical",
+    "Branch":"Electrical",
     "Post":"Secretary",
-    "Email" : "Ritvik_11816083@nitkkr.ac.in",
-    "Image":"./members/Ritwik_III.jpg"
+    "Email" : "snehil_11914038@nitkkr.ac.in",
+    "Image":"./members/Snehil.jpg"
     },
 
-    "Tarun": {
-      "Branch":"Mechanical",
-      "Post":"Secretary",
-      "Email" : "Ritvik_11816083@nitkkr.ac.in",
-      "Image":"./members/Ritwik_III.jpg"
-      },
+    "Tarun Yadav": {
+    "Branch":"Mechanical",
+    "Post":"Secretary",
+    "Email" : "tarun_11916023@nitkkr.ac.in",
+    "Image":"./members/Tarun.jpg"
+    },
 
+    "Shikhar Singh": {
+    "Branch":"ECE",
+    "Post":"Member",
+    "Image":"./members/Shikhar.jpg"
+    },
 
-     "Abhay": {
-	  "Branch":"ECE",
-    "Image": "./members/abhay.jpeg"
-     },
+    "Madhur": {
+	  "Branch":"Mechanical",
+    "Post":"Member",
+    "Image":"./members/Madhur.png"
+    },
 
-     "Aqib": {
-	 "Branch":"Mechanical",
-         "Image":"./members/Aqib.jpeg"
-      },
-     "Divya": {
-	 "Branch":"Mechanical",
-         "Image":"./members/divya.jpeg"
-     },
-     "Mandeep": {
-	  "Branch":"ECE",
-    "Image":"./members/Mandeep_III.jpg"
-  },
-     "Navdeep": {
-	  "Branch":"Electrical",
-    "Image":"./members/Navdeep_III.jpg"
-  },
-     "Nitin": {
-	  "Branch":"ECE",
-    "Image":"./members/Nitin_III.jpg"
-     },
-     "Pushkal Shukla": {
-	  "Branch":"ECE",
-    "Image": "./members/pushkal.jpeg"
-     },
-      "Shemon": {
-	 "Branch":"Mechanical",
-         "Image":"./members/shemon.jpeg"
-      },
-     "Shubham Kumar": {
-	  "Branch":"ECE",
-    "Image": "./members/Shubham.jpg"
-     },
-     "Sourav Parida": {
-	  "Branch":"ECE",
-    "Image": "./members/sourav.jpeg"
-     },
-     "Vinay": {
-	 "Branch":"Mechanical",
-    "Image":"./members/Vinay_III.jpg"
-  }
-
-     
-   
+    "Varun Goel": {
+	  "Branch":"Mechanical",
+    "Post":"Member",
+    "Image":"./members/Varun.jpg"
+    },  
  };
     
  
 
  var preFinalYear = {
- 	"Abhronil": {
-    "Image":"./members/Abhronil.jpg"
+
+ 	"Bhupeksh": {
+  "Image":"./members/Bhupeksh.png"
 	},
-      "Anubhav": {
-         "Image":"./members/anubhav.jpeg"
-      },
-      "Anant Sharma": {
-         "Image":"./members/anant.jpeg"
-     },
-     
-  
-      "Madhur": {
-         "Image":"./members/madhur.jpeg"
-      },
-      "Parbhat Kumar": {
-         "Image":"./members/Parbhat.jpg"
-     },
-  "Praneet": {
-    "Image":"./members/Praneet.jpg"
+
+  "D Sharvani": {
+  "Image":"./members/Sharvani.png"
   },
-  "Praveen Kaushik": {
-    "Image":"./members/Praveen_Kaushik_II.jpg"
+
+  "Shubham Kaushik": {
+  "Image":"./members/Shubham.jpg"
   },
-  "Shivani": {
-    "Image":"./members/Shivani.jpg"
+
+  "Chanakya Dheeraj": {
+    "Image":"./members/Chanakya.png"
   },
-      "Snehil Raj": {
-         "Image":"./members/snehil.jpeg"
-     },
-  
-      "Sharique": {
-         "Image":"./members/Sharique.jpeg"
-     },
-  
-      "Tarun Yadav": {
-         "Image":"./members/tarun.jpeg"
-      },
-      "Tushar": {
-         "Image":"./members/Tushar.JPG"
-      },
-      "Varun Goel": {
-         "Image":"./members/varun.jpeg"
-      },
-      "Vikas Choudhary": {
-         "Image":"./members/vikas.jpeg"
-      },
-     "Bandavathu": {
-    "Image":"./members/BADAVATHU_II.jpg"
+
+  "Saurav Singh": {
+  "Image":"./members/Saurav.jpg"
   },
-      "Amit jindal": {
-    "Image":"./members/amit.jpg"
-      },
-      "Vinay": {
-    "Image":"./members/vinay.jpeg"
-  }
-    
+
+  "Rahul Yadav": {
+  "Image":"./members/Rahul.png"
+  },
+
  };
 
 
