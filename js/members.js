@@ -47,7 +47,25 @@ var finalYear = {
 	  "Branch":"Mechanical",
     "Post":"Member",
     "Image":"./members/Varun.jpg"
-    },  
+    },
+    
+    "Tushar Kalsi": {
+    "Branch":"Electrical",
+    "Post":"Member",
+    "Image":"./members/Tushar.jpeg"
+    },
+
+    "Praneeth Kumar Reddy": {
+      "Branch":"ECE",
+      "Post":"Member",
+      "Image":"./members/Praneeth.jpeg"
+      },
+
+      "Vinay Yadav": {
+        "Branch":"Mechanical",
+        "Post":"Member",
+        "Image":"./members/Vinay4.jpg"
+        },
  };
     
  
@@ -94,9 +112,17 @@ var finalYear = {
   "Image":"./members/Khushi.jpg"
               },
   
+  "Rupesh": {
+  "Image":"./members/Rupesh.jpg"
+    },
+
   "Nitin": {
   "Image":"./members/Nitin.jpg"
-    },
+  },
+  
+  "Nagubandi Kousik Janardhan": {
+  "Image":"./members/Kousik.jpg"
+  },
 
   "Chanakya Dheeraj": {
     "Image":"./members/Chanakya.jpg"
@@ -110,6 +136,13 @@ var finalYear = {
   "Image":"./members/Rahul.jpg"
   },
 
+  "Danda Aditya Pavan Kumar ": {
+  "Image":"./members/Danda.jpg"
+  },
+
+  "K. Ashok Kumar": {
+    "Image":"./members/Ashok.jpg"
+    },
 
  };
 
