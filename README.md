@@ -91,7 +91,7 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 Code Copyright 2018 Materialize. Code released under the MIT license.
 
 ## Website link
-www.aeronitkkr.com
+www.aeronitkkr.club
 
 ## Websites used for formatting and editing images
 for resizing profile pictures
